@@ -1,0 +1,6 @@
+.env
+*.swp
+*.swo
+# *.swp and *.swo are Vim swap files 
+*~
+# *~ is the backup file some editors leave behind on save. 
